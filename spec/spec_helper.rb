@@ -9,6 +9,5 @@ RSpec.configure do |config|
 end
 
 def meal_choice(meal=default)
-  meal
 end
   
